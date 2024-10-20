@@ -2,5 +2,5 @@
 - 👀 I’m interested in marketing. I am a marketer with 9 years of experience
 - 🌱 I’m currently learning programming in Swift.
 - 💞️ I’m looking to collaborate on developing Swift applications or any projects that combine marketing and programming. I am also open to partnerships and advertising on my Instagram and Threads pages, with other developers and companies.
-- 📫 How to reach me [https://www.instagram.com/feather_flo/](https://www.threads.net/@feather_flo)
+- 📫 How to reach me https://www.threads.net/@feather_flo
 - 😄 Pronouns: Vlada
